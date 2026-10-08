@@ -1,0 +1,12 @@
+*
+!backend/
+backend/*
+
+!backend/requirements.txt
+
+!backend/app/
+!backend/app/**
+
+!backend/models/
+backend/models/*
+!backend/models/mfcc_svm_baseline.joblib

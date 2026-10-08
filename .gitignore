@@ -1,0 +1,41 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.cache/
+
+# Node / Vite
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local audio files
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.aac
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
