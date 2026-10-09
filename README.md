@@ -4,7 +4,7 @@ VeriSon is a full-stack web application that analyzes a music track and estimate
 
 **[Try the live demo](https://verison-app.vercel.app)**
 
-> The public demo uses Vercel for the frontend and Render for the backend. The free backend instance may need a short cold start after inactivity.
+> The public demo uses Vercel for the frontend and Render for the backend. The free backend instance may take a few minutes to start after a period of inactivity.
 
 ## How it works
 
